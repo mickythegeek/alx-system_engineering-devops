@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello, World' > file_list.txt
+echo 'Hello, World'
