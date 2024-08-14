@@ -1,9 +1,14 @@
 #!/usr/bin/python3
+"""
+Function that queries the Reddit API and returns
+the number of subscribers for a given subreddit.
+"""
 import requests
 import sys
 
 
 def number_of_subscribers(subreddit):
+    """ Reddit API Queries  """
     user_agent = 'Mozilla/5.0'
 
     headers = {
