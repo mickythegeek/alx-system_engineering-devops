@@ -23,4 +23,4 @@ Implement monitoring tools and practices based on the learning objectives to ens
 
 ### Examples
 - Configuring Nginx to collect access and error logs.
-- Setting up a monitoring tool to track application performance.
+- Setting up a monitoring tool like Datadog to track application performance.
